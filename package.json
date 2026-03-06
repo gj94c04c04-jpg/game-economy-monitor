@@ -1,0 +1,19 @@
+{
+  "name": "market-monitor-poc",
+  "version": "1.0.0",
+  "description": "![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)\r ![Node.js](https://img.shields.io/badge/Node.js-v20+-green.svg)\r ![Status](https://img.shields.io/badge/Status-PoC_Completed-success.svg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.3.1",
+    "node-cron": "^4.2.1"
+  }
+}
